@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy, I'm Rithika 🌸</h1>
 🎓 CS Undergrad @ GRIET'26 | 🧠 Minor in AI/ML | 🔍 Data Whisperer | 🛠 Builder of Things that Work (and Look Good Too)
-<br>
-Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML: sprinkled with a bit of UI ✨.
+<p>Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML: sprinkled with a bit of UI ✨.</p>
+
 
 
 <p align="center">
