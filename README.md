@@ -7,6 +7,7 @@ Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clea
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdjbXZmY2tvcnRsY3J5b2xrb2QyemtrOXpyYW9scDg3OG8yc3lsdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="300px" />
 </p>
+<p align="center"> Or do I?👁️👄👁️</p>
 
 ---
 
