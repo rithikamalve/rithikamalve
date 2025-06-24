@@ -6,7 +6,7 @@ Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clea
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full-Stack+%F0%9F%9A%80;ML+Apprentice+%F0%9F%96%A5%EF%B8%8F;Lover+of+clean+code+%E2%9C%8C%EF%B8%8F;Problem+solver+%F0%9F%A4%96;Coffee+%2B+Python+%3D+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Python- Fullstack+%F0%9F%9A%80;ML+Apprentice+%F0%9F%96%A5%EF%B8%8F;Lover+of+clean+code+%E2%9C%8C%EF%B8%8F;Problem+solver+%F0%9F%A4%96;Chai+%2B+Python+%3D+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
