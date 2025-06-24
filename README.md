@@ -2,7 +2,7 @@
 🎓 CS Undergrad @ GRIET'26 | 🧠 Minor in AI/ML  
 💡 Innovator | 🔍 Data Whisperer | 🛠 Builder of Things that Work (and Look Good Too)
 
-Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML— sprinkled with a bit of UI ✨.
+Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML: sprinkled with a bit of UI ✨.
 
 
 <p align="center">
