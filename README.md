@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy, I'm Rithika 🌸</h1>
-🎓 CS Undergrad @ GRIET'26 | 🧠 Minor in AI/ML | 🔍 Data Whisperer | 🛠 Builder of Things that Work (and Look Good Too)
+
 <p>Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML: sprinkled with a bit of UI ✨.</p>
 
 
@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+- 🎓 CS @ GRIET (’26) • AI/ML Minor
 - 🤖 I build web apps powered by machine learning, not magic (but close)  
 - 🧠 Currently learning **ML Ops**, **Kubernetes**, and **Docker**  
 - 💬 Love solving real-world problems using `Flask`, `Streamlit`, and `Python`
@@ -21,12 +21,11 @@
 
 ## 🔥 My Favorite Builds
 
-### 🌿 EcoQuant AI  
+### 🌿 EcoQuant AI  🌐 [Live Demo](https://ecoquant-ai.onrender.com/)
 > *Predicts how eco-friendly a product is just from its URL — powered by ML + REST APIs*
 
 - 🧠 Custom regression model (RMSE: 0.87)
 - 🔎 Extracts product data, fetches real-time sustainability scores
-- ⚡ SQLite caching = faster than your average API
 - 🎨 Polished front end with feedback from 15 beta users
 
 > 🌍 Think "Shazam for Sustainability"
