@@ -1,84 +1,73 @@
-<h1 align="center">Heyyy, I'm Rithika 🌸</h1>
+<p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Banner"></p>
 
-<p>Welcome to my digital lab! I’m a developer driven by curiosity, chai, and clean code. I turn complex problems into intuitive, data-driven apps with delightful ML: sprinkled with a bit of UI ✨.</p>
+<p><img alt="Hand Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="40" align="left"></p>
+<h2>Hey there! I’m Rithika 👋</h2>
 
+<h3>👩🏻‍💻 &nbsp;About Me</h3>
 
+<p>💡 &nbsp;AI & Data Science student passionate about solving real-world problems through data-driven and ML-based solutions.<br>
+🎓 &nbsp;Currently pursuing B.Tech in Computer Science (AI & ML) at GRIET, Hyderabad (Graduating 2026).<br>
+🧠 &nbsp;Focused on Cloud Technologies, MLOps, and scalable data systems.<br>
+📊 &nbsp;Proficient in Python, SQL, and statistical analysis — with experience in ETL, data pipelines, and ML model deployment.<br>
+✍️ &nbsp;Enjoy exploring NLP, data visualization, and AI automation tools in my free time.<br>
+💬 &nbsp;Open to collaborations, research projects, and discussions around AI, data engineering, and automation.<br>
+✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
+📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="YOUR_RESUME_LINK_HERE">Résumé</a> for more details!</p>
+
+<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
+
+<h3>🛠 &nbsp;Tech Stack</h3>
+
+<p>
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">&nbsp;
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql">&nbsp;
+<img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=r">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask">&nbsp;
+<img src="https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit">&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">&nbsp;
+<br>
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3">&nbsp;
+<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau">&nbsp;
+<img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel">&nbsp;
+<img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws">&nbsp;
+<img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+</p>
+
+<h3>📊 &nbsp;Projects</h3>
+
+<ul>
+  <li><b>SmartDocs</b> | Streamlit, SQLite, HuggingFace<br>
+  LLM-powered document automation tool with CRUD operations and multilingual summarization. Reduced analysis time by ~60%.</li>
+  <li><b>EcoQuant AI</b> | Flask, HTML/CSS, Ensemble Model, GroqAPI<br>
+  Predicts environmental impact of products (85% accuracy) with improved reliability via cross-validation and hyperparameter tuning.</li>
+  <li><b>Nomiko</b> | Genkit, Next.js<br>
+  NLP-based contract analysis tool with risk flagging and negotiation guidance using privacy-first workflows.</li>
+</ul>
+
+<h3>🎓 &nbsp;Certifications</h3>
+<p>
+AWS Cloud Foundations • AWS ML Foundations • Azure AI Fundamentals • Fabric Analytics • Cisco CCNA (ITN) • Cybersecurity Essentials
+</p>
+
+<h3>🏆 &nbsp;Achievements & Leadership</h3>
+<ul>
+  <li><b>97.47 Percentile</b> – Naukri Young Turks 2025 (National-Level Employability Assessment)</li>
+  <li>Top 5 – BITS TechXelerate Hackathon (Voice-assisted eCommerce platform using NLP)</li>
+  <li>Peer Mentor – GRIET Skill Development Cell (Raised workshop turnout by 35%)</li>
+  <li>Organizer – Epitome 2024 (Managed logistics for 500+ participants across 10 technical events)</li>
+  <li>Top 6.9% on LeetCode – 50 Days Badge (2024 & 2025)</li>
+</ul>
+
+<h3>🤝🏻 &nbsp;Connect with Me</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdjbXZmY2tvcnRsY3J5b2xrb2QyemtrOXpyYW9scDg3OG8yc3lsdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="300px" />
+<a href="https://rithikamalve.github.io/my_portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/-Rithika%20M%20R-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+<a href="mailto:rithikamalve123@gmail.com"><img src="https://img.shields.io/badge/-rithikamalve123@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="https://github.com/rithikamalve"><img src="https://img.shields.io/badge/-@rithikamalve-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
-<p align="center"> Or do I?👁️👄👁️</p>
 
----
-
-## 👨‍💻 About Me
-- 🎓 CS @ GRIET (’26) • AI/ML Minor
-- 🤖 I build web apps powered by machine learning, not magic (but close)  
-- 🧠 Currently learning **ML Ops**, **Kubernetes**, and **Docker**  
-- 💬 Love solving real-world problems using `Flask`, `Streamlit`, and `Python`
-
----
-
-## 🔥 My Favorite Builds
-
-### 🌿 EcoQuant AI  🌐 [Live Demo](https://ecoquant-ai.onrender.com/)
-> *Predicts how eco-friendly a product is just from its URL — powered by ML + REST APIs*
-
-- 🧠 Custom regression model (RMSE: 0.87)
-- 🔎 Extracts product data, fetches real-time sustainability scores
-- 🎨 Polished front end with feedback from 15 beta users
-
-> 🌍 Think "Shazam for Sustainability"
-
----
-
-### 📄 SmartDocs  
-> *Drag. Drop. Done. This tool turns messy PDFs & DOCX into clean, summarized insight.*
-
-- ✂️ Huggingface-based NLP summarization
-- 🧾 Supports multilingual docs (via Groq API)
-- 🧠 50%+ faster content review
-- ⚙️ OCR-friendly + Streamlit + SQLite = 💯
-
----
-
-## 🛠 Tech Playground
-
-**Languages:** Python, Java, SQL  
-**Web Stack:** Flask, Streamlit, HTML/CSS/JS, REST APIs  
-**ML/Data:** Scikit-learn, TensorFlow, Pandas, BeautifulSoup  
-**Tools:** Git, SQLite, MySQL, VS Code, Jupyter  
-**Cloud-ish:** AWS (Basics), API Dev, DB Design  
-
----
-
-## 🏆 Cool Stuff I Did
-
-- 🥇 Top 5 @ BITS TechXelerate – Voice-enabled eCommerce w/ NLP  
-- 🧠 Qualified @ Myntra HackerRamp – Ranked top 50 out of 29,000+ teams  
-- 🧑‍🏫 Peer Mentor @ SDC, GRIET – Boosted workshop attendance by 35%  
-- 🎯 Organizer @ Epitome 2024 – Managed 500+ tech participants
-
----
-
-## 📜 Certified in Cloud + AI + Cyber
-
-- ☁️ AWS Cloud Foundations  
-- 🔍 Google AI/ML Virtual Internship  
-- 🔐 Cisco CCNA + Intro to Cybersecurity  
-- 📊 Azure AI Fundamentals, Microsoft Fabric Analytics
-
----
-
-## 💬 Let's Connect
-
-- 🌐 [Portfolio](https://yourwebsite.com)(Under Construction! Inconvenience Regretted.)
-- 💼 [LinkedIn](https://linkedin.com/in/rithikamalve)
-- 📨 [Email](mailto:rithikamalve123@gmail.com)
-- 🛠️ [Resume (PDF)](https://drive.google.com/file/d/1-nRloJCpizgd4-rueEn5TMgtJt3mOG8l/view?usp=sharing)
-
----
-
-<p align="center">
-  <em>"Code it until you own it."</em>  
-</p>
+<hr>
+<p>Last Edited on: 07/10/2025</p>
