@@ -12,7 +12,8 @@
 ✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
 📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="YOUR_RESUME_LINK_HERE">Résumé</a> for more details!</p>
 
-<img src="https://cdn.dribbble.com/users/1957290/screenshots/6184455/ai_machine_learning.gif" alt="AI Animation" align="right" width="350"/>
+<img src="https://media.tenor.com/DNlxK7R3k1IAAAAC/coding.gif" alt="Coding Animation" align="right" width="350"/>
+
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
