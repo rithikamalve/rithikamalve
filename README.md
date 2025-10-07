@@ -36,9 +36,9 @@
 <ul>
   <li><b>SmartDocs</b> | Streamlit, SQLite, HuggingFace | <a href="https://github.com/rithikamalve/smartdocs-pro">Github</a><br>
   LLM-powered document automation tool with CRUD operations and multilingual summarization. Reduced analysis time by ~60%.</li>
-  <li><b>EcoQuant AI</b> | Flask, HTML/CSS, Ensemble Model, GroqAPI<br>
+  <li><b>EcoQuant AI</b> | Flask, HTML/CSS, Ensemble Model, GroqAPI | <a href="https://github.com/rithikamalve/environment-impact-analyzer">Github</a> <br>
   Predicts environmental impact of products (85% accuracy) with improved reliability via cross-validation and hyperparameter tuning.</li>
-  <li><b>Nomiko</b> | Genkit, Next.js<br>
+  <li><b>Nomiko</b> | Genkit, Next.js | <a href="https://github.com/rithikamalve/nomiko-main">Github</a><br>
   NLP-based contract analysis tool with risk flagging and negotiation guidance using privacy-first workflows.</li>
 </ul>
 
