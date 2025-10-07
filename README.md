@@ -12,7 +12,7 @@
 ✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
 📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="YOUR_RESUME_LINK_HERE">Résumé</a> for more details!</p>
 
-<img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="AI & Coding" align="right" width="350"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
