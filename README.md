@@ -29,7 +29,11 @@
 <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws">&nbsp;
 <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">&nbsp;
+<br>
+<img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs">&nbsp;
+<img src="https://img.shields.io/badge/-Genkit-05122A?style=flat&logo=google">&nbsp;
 </p>
+
 
 <h3>📊 &nbsp;Projects</h3>
 
