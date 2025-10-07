@@ -1,6 +1,6 @@
 
 <h2>Hey there! I’m Rithika 👋</h2>
-
+<img src="https://media.tenor.com/DNlxK7R3k1IAAAAC/coding.gif" alt="Coding Animation" align="right" width="350"/>
 <h3>👩🏻‍💻 &nbsp;About Me</h3>
 
 <p>💡 &nbsp;AI & Data Science student passionate about solving real-world problems through data-driven and ML-based solutions.<br>
@@ -11,8 +11,6 @@
 💬 &nbsp;Open to collaborations, research projects, and discussions around AI, data engineering, and automation.<br>
 ✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
 📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="YOUR_RESUME_LINK_HERE">Résumé</a> for more details!</p>
-
-<img src="https://media.tenor.com/DNlxK7R3k1IAAAAC/coding.gif" alt="Coding Animation" align="right" width="350"/>
 
 
 <h3>🛠 &nbsp;Tech Stack</h3>
@@ -27,7 +25,6 @@
 <br>
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3">&nbsp;
-<img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau">&nbsp;
 <img src="https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel">&nbsp;
 <img src="https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws">&nbsp;
 <img src="https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure">&nbsp;
