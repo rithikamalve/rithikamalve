@@ -5,12 +5,12 @@
 
 <p>💡 &nbsp;AI & Data Science student passionate about solving real-world problems through data-driven and ML-based solutions.<br>
 🎓 &nbsp;Currently pursuing B.Tech in Computer Science (AI & ML) at GRIET, Hyderabad (Graduating 2026).<br>
+  📊 &nbsp;Proficient in Python, SQL, and statistical analysis — with experience in ETL, data pipelines, and ML model deployment.<br>
 🧠 &nbsp;Focused on Cloud Technologies, MLOps, and scalable data systems.<br>
-📊 &nbsp;Proficient in Python, SQL, and statistical analysis — with experience in ETL, data pipelines, and ML model deployment.<br>
 ✍️ &nbsp;Enjoy exploring NLP, data visualization, and AI automation tools in my free time.<br>
 💬 &nbsp;Open to collaborations, research projects, and discussions around AI, data engineering, and automation.<br>
 ✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
-📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="YOUR_RESUME_LINK_HERE">Résumé</a> for more details!</p>
+📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="https://drive.google.com/file/d/1ctemUxPM5REdigLgbQZdGxMM8xjQuJ_J/view?usp=sharing">Résumé</a> for more details!</p>
 
 
 <h3>🛠 &nbsp;Tech Stack</h3>
@@ -34,7 +34,7 @@
 <h3>📊 &nbsp;Projects</h3>
 
 <ul>
-  <li><b>SmartDocs</b> | Streamlit, SQLite, HuggingFace<br>
+  <li><b>SmartDocs</b> | Streamlit, SQLite, HuggingFace | <a href="https://github.com/rithikamalve/smartdocs-pro">Github</a><br>
   LLM-powered document automation tool with CRUD operations and multilingual summarization. Reduced analysis time by ~60%.</li>
   <li><b>EcoQuant AI</b> | Flask, HTML/CSS, Ensemble Model, GroqAPI<br>
   Predicts environmental impact of products (85% accuracy) with improved reliability via cross-validation and hyperparameter tuning.</li>
