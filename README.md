@@ -10,7 +10,7 @@
 ✍️ &nbsp;Enjoy exploring NLP, data visualization, and AI automation tools in my free time.<br>
 💬 &nbsp;Open to collaborations, research projects, and discussions around AI, data engineering, and automation.<br>
 ✉️ &nbsp;Reach me at <a href="mailto:rithikamalve123@gmail.com">rithikamalve123@gmail.com</a>.<br>
-📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a> or <a href="https://drive.google.com/file/d/1ctemUxPM5REdigLgbQZdGxMM8xjQuJ_J/view?usp=sharing">Résumé</a> for more details!</p>
+📄 &nbsp;Check out my <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a>for more details!</p>
 
 
 <h3>🛠 &nbsp;Tech Stack</h3>
