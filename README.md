@@ -8,7 +8,7 @@ Building AI-powered workflows, retrieval systems, and scalable backend applicati
 
 <br>
 
-`Python` • `FastAPI` • `SQL` • `LLM APIs` • `REST APIs`
+`Python` • `FastAPI` • `SQL` • `Generative AI` • `REST APIs`
 
 <br>
 
