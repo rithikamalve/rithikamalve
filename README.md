@@ -12,7 +12,7 @@ Building AI-powered workflows, retrieval systems, and scalable backend applicati
 
 <br>
 
-<a href="https://github.com/rithikamalve">GitHub</a> • <a href="https://linkedin.com/in/rithikamalve/">LinkedIn</a> • <a href="https://rithikamalve.github.io/my_portfolio/">Portfolio</a>
+<a href="https://github.com/rithikamalve">GitHub</a> • <a href="https://linkedin.com/in/rithikamalve/">LinkedIn</a> • <a href="https://rithikamalve.github.io/rithikasportfolio/">Portfolio</a>
 
 </div>
 
