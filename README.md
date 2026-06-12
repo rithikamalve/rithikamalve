@@ -38,7 +38,7 @@ class Rithika:
 
 ---
 
-## Selected Projects
+## Projects
 
 * **AI Workforce Availability Agent**
   AI-powered workforce management and automation system.
